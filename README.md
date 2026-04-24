@@ -1,7 +1,7 @@
 # Human_endometrial_fertility_histology_DL_study
 Code collection for training and testing of fertility outcome-oriented deep learning models based on endometrial HE histology images.
 
-# Endometrium Implantation Prediction (Exploratory Pipeline)
+All codes should be well validated and workable following instructions. Nonetheless, please do not hesitate to contact author for any potential bugs or questions.
 
 This repository packages an exploratory endometrium implantation prediction workflow using:
 - UNI2-h feature-based MIL models for WSI and LE
