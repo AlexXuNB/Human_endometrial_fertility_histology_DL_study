@@ -67,7 +67,7 @@ github_upload/
     multimodal_4factor/
     multimodal_clinical/
 ```
-*****Please notice checkpoints are to be accessed via zenodo or huggingspace. Link and instruction will be updated soon.
+
 
 ## Data Requirements
 
