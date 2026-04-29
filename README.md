@@ -329,7 +329,7 @@ python testing/test_multimodal_clinical.py \
   --output_dir outputs_eval/multimodal_clinical
 ```
 
-## Quick Start: Test Using Provided Checkpoints
+## Quick Start: Test Using Provided Checkpoints (To be uploaded into the provided folder structure)
 
 Use the packaged folders under `checkpoints/` directly as run/model inputs.
 
